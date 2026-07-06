@@ -1,0 +1,11 @@
+{
+  "name": "auth-strategies",
+  "version": "1.0.0",
+  "description": "Authentication strategies implemented from scratch in TypeScript, one branch per strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luizfrangel",
+  "license": "MIT"
+}
