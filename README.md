@@ -12,7 +12,7 @@ This project implements different authentication patterns, one per branch.
 
 ## Decisions
 
-The implementation will use DB with document orientation, because we need flexibility between the branches (features) and the relationships between models are not strong. For the JWT-based implementation: keep the user logged in (Refresh Token) and rrecover the user's password.
+The implementation will use DB with document orientation, because we need flexibility between the branches (features) and the relationships between models are not strong. For the JWT-based implementation: keep the user logged in (Refresh Token) and recover the user's password.
 
 ## Stack
 
